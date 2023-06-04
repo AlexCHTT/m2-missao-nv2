@@ -1,0 +1,75 @@
+.resultado{
+    margin: 2vh;
+    text-align: center;
+
+
+
+}
+.exibir{
+    width: 15px;
+    margin:50px , 50px;
+    padding-top: 20px;
+    padding-left: 42%;
+    
+}
+
+.teste1{
+margin: 0, auto;
+
+
+}
+
+.boxes{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 30px;
+    
+  
+   
+}
+
+.box{
+    
+    width: 300px;
+    height: 510px;
+    border-radius: 1%;
+    margin:10px auto;
+}
+
+.receita1{
+    margin: auto;
+    display: block;
+    width: 260px;
+    right: 260px;
+}
+
+.ingredientes{
+    padding: 10px;
+    margin-left: 20px;
+}
+
+#linha_divisoria{
+    margin: auto;
+    display: block;
+    width: 280px;
+    border: 1px solid #c7c3c3;
+}
+
+.preparo{
+width: 280px;
+text-align: left;
+margin-left: 10px;
+padding: 10px;
+
+}
+
+h2.title_box{
+    font-size: 20px;
+    text-align: center;
+    padding: 25px;
+
+}
+
